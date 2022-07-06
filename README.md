@@ -6,7 +6,7 @@ Que tal testar de uma maneira divertida sua memória? Esse aqui é o **Genius**,
 
 ### Linguagens utilizadas
 
-* HTML5
+* HTML
 * CSS
 * JavaScript
 
